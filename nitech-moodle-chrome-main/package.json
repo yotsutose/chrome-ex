@@ -1,0 +1,26 @@
+{
+  "name": "nitech-moodle-chrome",
+  "version": "1.0.0",
+  "description": "NITechのmoodleを使いやすくするChrome拡張機能です。<br>\r Chrome Extension for NITech moodle(38a).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitech-create/nitech-moodle-chrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitech-create/nitech-moodle-chrome/issues"
+  },
+  "homepage": "https://github.com/nitech-create/nitech-moodle-chrome#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .."
+  }
+}
